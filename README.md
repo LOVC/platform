@@ -1,5 +1,5 @@
 # platform
-Hi, we are Las Olas Venture Capital (a.k.a. LOVC). This repository contains information on how we operate in machine-readable format, which we'll update over time. We intend to continuously and openly share information to provide interested founders and investors with full visibility on our approach.
+<strong>Hi!</strong>, we are Las Olas Venture Capital (a.k.a. LOVC). This repository contains information on how we operate in machine-readable format, which we'll update over time. We intend to continuously and openly share information to provide interested founders and investors with full visibility on our approach.
 
 <strong> About us </strong> <br/>
 Las Olas means “the waves” in Spanish. As futurist venture capitalists we want to transform existing markets and create new ones by backing the best entrepreneurs we can find. We’re merchants of progress and we seek to create waves of change.
@@ -34,7 +34,7 @@ We’re based in Miami with networks in New York, Boston and the San Francisco b
 <strong> Investment themes </strong> <br/>
 Our investment themes are the result of our internal research and data analysis. They reflect our view on the emerging technologies and business architectures that we think will have a fundamental impact on how the world runs. Given the inherent evolving nature of technology, our themes will likely tend to morph, but not always in the same direction conventional wisdom would suggest. We will keep track of how our themes change over time and will mine that data looking for insights. We plan to share any learning we think are valuable as well as answer any questions we get. We’re currently very intrigued by entrepreneurs building companies within these themes:
 
-<strong>●	Machine intelligence </strong><pre>
+<strong>●	Machine intelligence </strong> <pre>
   ○ Artificial intelligence applied to solving a very specific problem for a clearly defined market.
   ○ Smart machine ecosystems, which can increase productivity and scalability by orders of magnitude.
   ○ Connected devices and software that create new data sets, which enable ascending and unfair advantages.</pre>
