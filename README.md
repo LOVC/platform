@@ -4,34 +4,34 @@ Hi, we are Las Olas Venture Capital (a.k.a. LOVC). This repository contains info
 About us <br/>
 Las Olas means “the waves” in Spanish. As futurist venture capitalists we want to transform existing markets and create new ones by backing the best entrepreneurs we can find. We’re merchants of progress and we seek to create waves of change.
 
-What we believe in
+What we believe in <br/>
 Everything we do is based on the belief that greatness can come from anywhere. We believe that regardless of background or location when smart people make it their mission to solve a hard problem and change the world they often do.
 
-What we do 
+What we do <br/>
 Our mission is to find outstanding entrepreneurs in non-obvious places and maximize their impact by connecting them to networks of capital, talent, and customers in well-established startup ecosystems.
 
-Who we invest in
+Who we invest in <br/>
 We invest in smart people who’re building the future. This means technology that can redefine existing industries and create new ones. We call these people superheroes and transformers. They typically have spent years gaining asymmetrical insight in a particular industry and the superpowers for building products that create ascending user networks, which as a result drive transformational value.
 
-What we invest in
+What we invest in <br/>
 We rarely invest in just ideas, and we prefer to see product demos vs. just pitch decks. We get really excited when we’re shown actual metrics that validate an original vision. We focus almost all of our efforts looking for companies that have reached early product market fit, which we can help get to the next level. In VC vernacular this means we mainly invest in early revenue companies raising their late Seed and/or Series A round.
 
 We invest in areas we understand and have a strong formed opinion about their future. We’re not dogmatic about any particular market or trend, but instead we invest in technological developments we can effect and yield outstanding returns for our investors. 
 
 Our backgrounds intersect several verticals and markets in which we’ve invested as well as built and sold several companies. By design our capabilities are dramatically augmented by our limited partners, advisors, and co-investors, which we carefully select. We believe to have super powers in building businesses in the North and Latin America in the following sectors:
 
-●	Enterprise software
-●	Tech-enabled business services
-●	Edtech
-●	Fintech
-●	Payments
+●	Enterprise software <br/>
+●	Tech-enabled business services <br/>
+●	Edtech <br/>
+●	Fintech <br/>
+●	Payments <br/>
 
 While we don't see these as the only areas we can invest in they are ones we know really well.
 
-Where we invest
+Where we invest <br/>
 We’re based in Miami with networks in New York, Boston and the San Francisco bay area. When we lead an investment we like to be close to our companies as that is how we can add the most value to them. If we’re investing alongside people we trust we don't care as much about location as long as we can add value and influence the outcome from afar.
 
-Investment themes 
+Investment themes <br/>
 Our investment themes are the result of our internal research and data analysis. They reflect our view on the emerging technologies and business architectures that we think will have a fundamental impact on how the world runs. Given the inherent evolving nature of technology, our themes will likely tend to morph, but not always in the same direction conventional wisdom would suggest. We will keep track of how our themes change over time and will mine that data looking for insights. We plan to share any learning we think are valuable as well as answer any questions we get. We’re currently very intrigued by entrepreneurs building companies within these themes:
 
 ●	Machine intelligence 
