@@ -37,15 +37,15 @@ Our investment themes are the result of our internal research and data analysis.
 <strong>●	Machine intelligence </strong> <br/> <pre>
   ○ Artificial intelligence applied to solving a very specific problem for a clearly defined market.
   ○ Smart machine ecosystems, which can increase productivity and scalability by orders of magnitude.
-  ○ Connected devices and software that create new data sets, which enable ascending and unfair advantages.</pre><br/>
-<strong>●	Digital infrastructure </strong> <br/>
+  ○ Connected devices and software that create new data sets, which enable ascending and unfair advantages.</pre>
+<strong>●	Digital infrastructure </strong> <br/> <pre>
   ○	Technology that amplifies the value of the Internet and software. <br/>
   ○	Platforms connecting people and services that enable faster innovation. <br/>
-  ○	Applications that make the Internet more secure and protect people’s data. <br/>
-<strong>●	The future of work </strong> <br/>
+  ○	Applications that make the Internet more secure and protect people’s data.</pre> <br/>
+<strong>●	The future of work </strong> <br/> <pre>
   ○	Industry focused Saas platforms that transform how companies create value for customers. <br/>
   ○	New solutions to old industry problems that require a high degree of process and manual coordination. <br/>
-  ○	Individual worker empowerment via mobility and on-demand insight tools and services. <br/>
+  ○	Individual worker empowerment via mobility and on-demand insight tools and services.</pre> <br/>
 
 <strong> Our investment approach </strong> <br/>
 We’re entrepreneurs ourselves, so we like to be involved and invest to drive transformational change. This doesn't mean we need control or get in the way as we understand that founders require flexibility to execute on their vision.
