@@ -1,7 +1,7 @@
 # platform
 Hi, we are Las Olas Venture Capital (a.k.a. LOVC). This repository contains information on how we operate in machine-readable format, which we'll update over time. We intend to continuously and openly share information to provide interested founders and investors with full visibility on our approach.
 
-About us
+About us <br/>
 Las Olas means “the waves” in Spanish. As futurist venture capitalists we want to transform existing markets and create new ones by backing the best entrepreneurs we can find. We’re merchants of progress and we seek to create waves of change.
 
 What we believe in
