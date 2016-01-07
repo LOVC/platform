@@ -45,7 +45,7 @@ Our investment themes are the result of our internal research and data analysis.
 <strong>●	The future of work </strong> <br/> <pre>
   ○	Industry focused Saas platforms that transform how companies create value for customers.
   ○	New solutions to old industry problems that require a high degree of process and manual coordination.
-  ○	Individual worker empowerment via mobility and on-demand insight tools and services.</pre> <br/>
+  ○	Individual worker empowerment via mobility and on-demand insight tools and services.</pre>
 
 <strong> Our investment approach </strong> <br/>
 We’re entrepreneurs ourselves, so we like to be involved and invest to drive transformational change. This doesn't mean we need control or get in the way as we understand that founders require flexibility to execute on their vision.
