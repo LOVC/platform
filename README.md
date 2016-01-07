@@ -1,7 +1,5 @@
 # platform
-Hi, we're Las Olas Venture Capital. This repository contains all of our firm's operating documents. We share these openly with interested founders and investors to provide visibility on how we operate.
-
-Las Olas VC Operating Platform
+Hi, we are Las Olas Venture Capital. This repository contains information on how we operate in machine-readable format, which we'll update over time. We intend to continuously share information openly to provide interested founders and investors with full visibility on our approach.
 
 About us
 Las Olas means “the waves” in Spanish. As futurist venture capitalists we want to transform existing markets and create new ones by backing the best entrepreneurs we can find. We’re merchants of progress and we seek to create waves of change.
@@ -37,20 +35,17 @@ Investment themes
 Our investment themes are the result of our internal research and data analysis. They reflect our view on the emerging technologies and business architectures that we think will have a fundamental impact on how the world runs. Given the inherent evolving nature of technology, our themes will likely tend to morph, but not always in the same direction conventional wisdom would suggest. We will keep track of how our themes change over time and will mine that data looking for insights. We plan to share any learning we think are valuable as well as answer any questions we get. We’re currently very intrigued by entrepreneurs building companies within these themes:
 
 ●	Machine intelligence 
-○	Artificial intelligence applied to solving a very specific problem for a clearly defined market.
-○	Smart machine ecosystems, which can increase productivity and scalability by orders of magnitude.
-○	Connected devices and software that create new data sets, which enable ascending and unfair competitive advantages.
+  ○	Artificial intelligence applied to solving a very specific problem for a clearly defined market.
+  ○	Smart machine ecosystems, which can increase productivity and scalability by orders of magnitude.
+  ○	Connected devices and software that create new data sets, which enable ascending and unfair competitive advantages.
 ●	Digital infrastructure 
-○	Technology that amplifies the value of the Internet and software.
-○	Platforms connecting people and services that enable faster innovation.
-○	Applications that make the Internet more secure and protect people’s data.
+  ○	Technology that amplifies the value of the Internet and software.
+  ○	Platforms connecting people and services that enable faster innovation.
+  ○	Applications that make the Internet more secure and protect people’s data.
 ●	The future of work
-○	Industry focused software-as-a-service platforms that transform how companies work and deliver value to their customers.
-○	New solutions to old industry problems that require a high degree of process and manual coordination.
-○	Individual worker empowerment via mobility and on-demand insight tools and services.
-
-
-
+  ○	Industry focused software-as-a-service platforms that transform how companies work and deliver value to their customers.
+  ○	New solutions to old industry problems that require a high degree of process and manual coordination.
+  ○	Individual worker empowerment via mobility and on-demand insight tools and services.
 
 Our investment approach
 We’re entrepreneurs ourselves, so we like to be involved and invest to drive transformational change. This doesn't mean we need control or get in the way as we understand that founders require flexibility to execute on their vision.
