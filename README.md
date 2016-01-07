@@ -4,16 +4,16 @@ Hi, we are Las Olas Venture Capital (a.k.a. LOVC). This repository contains info
 <strong> About us </strong> <br/>
 Las Olas means “the waves” in Spanish. As futurist venture capitalists we want to transform existing markets and create new ones by backing the best entrepreneurs we can find. We’re merchants of progress and we seek to create waves of change.
 
-What we believe in <br/>
+<strong> What we believe </strong> in <br/>
 Everything we do is based on the belief that greatness can come from anywhere. We believe that regardless of background or location when smart people make it their mission to solve a hard problem and change the world they often do.
 
-What we do <br/>
+<strong> What we do </strong> <br/>
 Our mission is to find outstanding entrepreneurs in non-obvious places and maximize their impact by connecting them to networks of capital, talent, and customers in well-established startup ecosystems.
 
-Who we invest in <br/>
+<strong> Who we invest in </strong> <br/>
 We invest in smart people who’re building the future. This means technology that can redefine existing industries and create new ones. We call these people superheroes and transformers. They typically have spent years gaining asymmetrical insight in a particular industry and the superpowers for building products that create ascending user networks, which as a result drive transformational value.
 
-What we invest in <br/>
+<strong> What we invest in </strong> <br/>
 We rarely invest in just ideas, and we prefer to see product demos vs. just pitch decks. We get really excited when we’re shown actual metrics that validate an original vision. We focus almost all of our efforts looking for companies that have reached early product market fit, which we can help get to the next level. In VC vernacular this means we mainly invest in early revenue companies raising their late Seed and/or Series A round.
 
 We invest in areas we understand and have a strong formed opinion about their future. We’re not dogmatic about any particular market or trend, but instead we invest in technological developments we can effect and yield outstanding returns for our investors. 
@@ -28,26 +28,26 @@ Our backgrounds intersect several verticals and markets in which we’ve investe
 
 While we don't see these as the only areas we can invest in they are ones we know really well.
 
-Where we invest <br/>
+<strong> Where we invest </strong> <br/>
 We’re based in Miami with networks in New York, Boston and the San Francisco bay area. When we lead an investment we like to be close to our companies as that is how we can add the most value to them. If we’re investing alongside people we trust we don't care as much about location as long as we can add value and influence the outcome from afar.
 
-Investment themes <br/>
+<strong> Investment themes </strong> <br/>
 Our investment themes are the result of our internal research and data analysis. They reflect our view on the emerging technologies and business architectures that we think will have a fundamental impact on how the world runs. Given the inherent evolving nature of technology, our themes will likely tend to morph, but not always in the same direction conventional wisdom would suggest. We will keep track of how our themes change over time and will mine that data looking for insights. We plan to share any learning we think are valuable as well as answer any questions we get. We’re currently very intrigued by entrepreneurs building companies within these themes:
 
-●	Machine intelligence <br/>
+<strong>●	Machine intelligence </strong> <br/>
   ○	Artificial intelligence applied to solving a very specific problem for a clearly defined market. <br/>
   ○	Smart machine ecosystems, which can increase productivity and scalability by orders of magnitude. <br/>
   ○	Connected devices and software that create new data sets, which enable ascending and unfair competitive advantages. <br/>
-●	Digital infrastructure <br/>
+<strong>●	Digital infrastructure </strong> <br/>
   ○	Technology that amplifies the value of the Internet and software. <br/>
   ○	Platforms connecting people and services that enable faster innovation. <br/>
   ○	Applications that make the Internet more secure and protect people’s data. <br/>
-●	The future of work <br/>
+<strong>●	The future of work </strong> <br/>
   ○	Industry focused software-as-a-service platforms that transform how companies work and deliver value to their customers. <br/>
   ○	New solutions to old industry problems that require a high degree of process and manual coordination. <br/>
   ○	Individual worker empowerment via mobility and on-demand insight tools and services. <br/>
 
-Our investment approach <br/>
+<strong> Our investment approach </strong> <br/>
 We’re entrepreneurs ourselves, so we like to be involved and invest to drive transformational change. This doesn't mean we need control or get in the way as we understand that founders require flexibility to execute on their vision.
 
 We do our homework and spend serious time understanding every investment opportunity down to its first principles. This means the problem being solved, the team, the vision, the product, the market, the customers, among many other things, to then clearly define where we can add value.
@@ -58,7 +58,7 @@ We tend to be fast to make investment decisions, but we don’t rush to make inv
 
 We do deep due diligence and make sure that we’re partnering with great entrepreneurs with a great vision. We believe their time is best spent building their companies, so we try to make it an agile and easy process for them. If we end up not investing we’re very explicit on the reasons for our decision and try to be as helpful as possible.
 
-How we make investment decisions <br/>
+<strong> How we make investment decisions </strong> <br/>
 Our investment committee makes our investment decisions. We are very practical and are always finding better ways to run and agile investment review and approval process. While our investors wholeheartedly trust our judgment we find that this process provides good balance in our decision-making. 
 
 Any general partner can present investment opportunities to the committee, and we do not require consensus from the other partners for doing so. Nevertheless, in almost all cases the partners seek out feedback from the other partners, advisors, and associates, before presenting investments for approval. In all cases all of our general partners will have met the entrepreneurs before presenting an investment to the investment committee. 
@@ -71,7 +71,7 @@ We only expect to invest in about 1% of the companies that we look at. This is n
 2)	Roughly 50% of the pitch decks we review will turn into a first meeting or call with one of our partners.<br/>
 3)	About 10% of the opportunities we look at will convert into a full diligence process, and we expect to make investment offers to 1% of them.<br/>
 
-Our typical investment terms <br/>
+<strong> Our typical investment terms </strong> <br/>
 Every venture is different so we don’t have a set of rules regarding investment terms. We just ask entrepreneurs for fair valuations commensurate with the level of value we’re adding and reasonable downside protection on our investment. In general terms this means a significant enough equity stake for us to be motivated, a 1x liquidation preference, and the right to approve the issuance of any securities that would get preference over our investment.
 
 Naturally, our focus is opportunities where can create maximum impact for the entrepreneurs we back and our investors. And given the asymmetrical distribution of returns in venture any of our investments must have the potential to return the total value of our fund. Therefore we find ourselves dedicating most of our energy and resources to helping the portfolio companies in which our ownership level and ability to help are meaningful. 
@@ -83,7 +83,7 @@ While we’re happy to lead a round if it's the right thing for us to do, we’r
 3)	Kernel: these are small investments we make in product stage companies that while being early we have strong conviction about the founders’ transformational superpowers. These investments rarely exceed $100,000 and our expectation is that by investing early we’ll be in the best position to help lead subsequent capital rounds. <br/>
 4)	Build: while our focus is on ventures with product market fit we’re still entrepreneurs after all. Hence we pay close attention when we see a market void and the opportunity to partner with super smart people to launch a new company. In this case we not only provide capital but a full platform for these entrepreneurs to thrive. The value proposition to our investors is getting an outsized equity participation as early investors, while we closely oversee the venture building process and de-risk the investment. We are very selective on these type of investments and don't anticipate doing many. <br/>
 
-Post investment <br/>
+<strong> Post investment </strong> <br/>
 Everyone at our firm has been a founder so we understand the troubles and tribulations founders goes through. Our job is to help them overcome those challenges and build valuable-enduring companies. Once we make an investment we’re fully vested in their success and we’ll pull in all of our resources to make it happen. We are typically good at helping in these areas:
 
 ●	Raising capital to support growth while balancing equity preservation. <br/>
@@ -96,16 +96,16 @@ As much as we seek to help we also seek to learn from our founders. We don't pre
 
 We believe in making everyone fully accountable for their decisions, but we all support each other’s decisions once made. We work as a team to learn from each other, and as as result the founders we back get the very best from us. They have access to anyone at our firm, at any time, regardless of who led their investment. 
 
-When things go wrong <br/>
+<strong> When things go wrong </strong> <br/>
 We like to think we’re good partners in good times and great partners in bad times. We’re optimists but we realize things will go wrong and some of our portfolio companies will get in trouble. What matters to us is getting in trouble alongside the right people. That is why we expect to look at a high number of opportunities to select just a few that we will partner with.
 
-Final words and how to contact us <br/>
+<strong> Final words and how to contact us </strong> <br/>
 If you read all the way to this section we thank your interest! Our goal is to always provide value, do no harm, and enjoy the ride. So hopefully this document was valuable to you in some way, or at least provided a clear view of who we are and who we are not. We acknowledge some founders may not agree with our approach, and that is ok, we sincerely wish them well. To those building the future who think we can help please reach out, we’re at your service.
 
-LOVC <br/>
+<strong> LOVC </strong> <br/>
 buildthefuture@lasolasvc.com <br/>
 
-PS: thanks to our friends at Bloomberg Beta for being a source if inspiration for using GitHub as the platform for sharing this data. While we will provide updates here, we will maintain our website at www.lasolasvc.com
+<i>PS: thanks to our friends at Bloomberg Beta for being a source if inspiration for using GitHub as the platform for sharing this data. While we will provide updates here, we will maintain our website at </i> www.lasolasvc.com
 
 
 
