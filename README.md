@@ -34,16 +34,16 @@ We’re based in Miami with networks in New York, Boston and the San Francisco b
 <strong> Investment themes </strong> <br/>
 Our investment themes are the result of our internal research and data analysis. They reflect our view on the emerging technologies and business architectures that we think will have a fundamental impact on how the world runs. Given the inherent evolving nature of technology, our themes will likely tend to morph, but not always in the same direction conventional wisdom would suggest. We will keep track of how our themes change over time and will mine that data looking for insights. We plan to share any learning we think are valuable as well as answer any questions we get. We’re currently very intrigued by entrepreneurs building companies within these themes:
 
-<strong>●	Machine intelligence </strong> <br/>
-  <pre>○Artificial intelligence applied to solving a very specific problem for a clearly defined market.
+<strong>●	Machine intelligence </strong> <br/> <pre>
+  ○ Artificial intelligence applied to solving a very specific problem for a clearly defined market.
   ○	Smart machine ecosystems, which can increase productivity and scalability by orders of magnitude.
-  ○	Connected devices and software that create new data sets, which enable ascending and unfair competitive advantages.</pre><br/>
+  ○	Connected devices and software that create new data sets, which enable ascending and unfair advantages.</pre><br/>
 <strong>●	Digital infrastructure </strong> <br/>
   ○	Technology that amplifies the value of the Internet and software. <br/>
   ○	Platforms connecting people and services that enable faster innovation. <br/>
   ○	Applications that make the Internet more secure and protect people’s data. <br/>
 <strong>●	The future of work </strong> <br/>
-  ○	Industry focused software-as-a-service platforms that transform how companies work and deliver value to their customers. <br/>
+  ○	Industry focused Saas platforms that transform how companies create value for customers. <br/>
   ○	New solutions to old industry problems that require a high degree of process and manual coordination. <br/>
   ○	Individual worker empowerment via mobility and on-demand insight tools and services. <br/>
 
