@@ -35,7 +35,7 @@ We’re based in Miami with networks in New York, Boston and the San Francisco b
 Our investment themes are the result of our internal research and data analysis. They reflect our view on the emerging technologies and business architectures that we think will have a fundamental impact on how the world runs. Given the inherent evolving nature of technology, our themes will likely tend to morph, but not always in the same direction conventional wisdom would suggest. We will keep track of how our themes change over time and will mine that data looking for insights. We plan to share any learning we think are valuable as well as answer any questions we get. We’re currently very intrigued by entrepreneurs building companies within these themes:
 
 <strong>●	Machine intelligence </strong> <br/>
-  ○	Artificial intelligence applied to solving a very specific problem for a clearly defined market. <br/>
+  <pre>○	Artificial intelligence applied to solving a very specific problem for a clearly defined market. </pre><br/>
   ○	Smart machine ecosystems, which can increase productivity and scalability by orders of magnitude. <br/>
   ○	Connected devices and software that create new data sets, which enable ascending and unfair competitive advantages. <br/>
 <strong>●	Digital infrastructure </strong> <br/>
@@ -105,7 +105,7 @@ If you read all the way to this section we thank your interest! Our goal is to a
 <strong> LOVC </strong> <br/>
 buildthefuture@lasolasvc.com <br/>
 
-<i>PS: thanks to our friends at Bloomberg Beta for being a source if inspiration for using GitHub as the platform for sharing this data. While we will provide updates here, we will maintain our website at </i> www.lasolasvc.com
+<i>PS: thanks to our friends at Bloomberg Beta for being a source of inspiration for using GitHub as the platform for sharing this data. While we will provide updates here, we will maintain our website at </i> www.lasolasvc.com
 
 
 
