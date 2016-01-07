@@ -36,8 +36,8 @@ Our investment themes are the result of our internal research and data analysis.
 
 <strong>●	Machine intelligence </strong> <br/> <pre>
   ○ Artificial intelligence applied to solving a very specific problem for a clearly defined market.
-  ○Smart machine ecosystems, which can increase productivity and scalability by orders of magnitude.
-  ○Connected devices and software that create new data sets, which enable ascending and unfair advantages.</pre><br/>
+  ○ Smart machine ecosystems, which can increase productivity and scalability by orders of magnitude.
+  ○ Connected devices and software that create new data sets, which enable ascending and unfair advantages.</pre><br/>
 <strong>●	Digital infrastructure </strong> <br/>
   ○	Technology that amplifies the value of the Internet and software. <br/>
   ○	Platforms connecting people and services that enable faster innovation. <br/>
