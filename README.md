@@ -39,12 +39,12 @@ Our investment themes are the result of our internal research and data analysis.
   ○ Smart machine ecosystems, which can increase productivity and scalability by orders of magnitude.
   ○ Connected devices and software that create new data sets, which enable ascending and unfair advantages.</pre>
 <strong>●	Digital infrastructure </strong> <br/> <pre>
-  ○	Technology that amplifies the value of the Internet and software. <br/>
-  ○	Platforms connecting people and services that enable faster innovation. <br/>
-  ○	Applications that make the Internet more secure and protect people’s data.</pre> <br/>
+  ○	Technology that amplifies the value of the Internet and software.
+  ○	Platforms connecting people and services that enable faster innovation.
+  ○	Applications that make the Internet more secure and protect people’s data.</pre>
 <strong>●	The future of work </strong> <br/> <pre>
-  ○	Industry focused Saas platforms that transform how companies create value for customers. <br/>
-  ○	New solutions to old industry problems that require a high degree of process and manual coordination. <br/>
+  ○	Industry focused Saas platforms that transform how companies create value for customers.
+  ○	New solutions to old industry problems that require a high degree of process and manual coordination.
   ○	Individual worker empowerment via mobility and on-demand insight tools and services.</pre> <br/>
 
 <strong> Our investment approach </strong> <br/>
@@ -78,10 +78,10 @@ Naturally, our focus is opportunities where can create maximum impact for the en
 
 While we’re happy to lead a round if it's the right thing for us to do, we’re not constrained to having to do it in order to invest. We categorize our investments in four buckets based on our role and the investment stage:
 
-1)	Lead: When we lead our investment can range between $500,000 to $1,500,000 per opportunity. We tend to bring in co-investors alongside us, especially those who can add significant value. Our co-investors are other VCs, angels, domain experts, and advisors we think have some kind of superpower to help us maximize the potential of the founders we’re backing. <br/>
-2)	Syndicate: When we’re not leading we co-invest alongside other VCs and people that we trust in opportunities that are synergistic to our strategy. We do this as a way to expand our networks and get exposure to key markets, primarily San Francisco and New York. While we’re flexible, our investments in this category tend to be less than $500,000 per opportunity. <br/>
-3)	Kernel: these are small investments we make in product stage companies that while being early we have strong conviction about the founders’ transformational superpowers. These investments rarely exceed $100,000 and our expectation is that by investing early we’ll be in the best position to help lead subsequent capital rounds. <br/>
-4)	Build: while our focus is on ventures with product market fit we’re still entrepreneurs after all. Hence we pay close attention when we see a market void and the opportunity to partner with super smart people to launch a new company. In this case we not only provide capital but a full platform for these entrepreneurs to thrive. The value proposition to our investors is getting an outsized equity participation as early investors, while we closely oversee the venture building process and de-risk the investment. We are very selective on these type of investments and don't anticipate doing many. <br/>
+1)	<strong>Lead</strong>: When we lead our investment can range between $500,000 to $1,500,000 per opportunity. We tend to bring in co-investors alongside us, especially those who can add significant value. Our co-investors are other VCs, angels, domain experts, and advisors we think have some kind of superpower to help us maximize the potential of the founders we’re backing. <br/>
+2)	<strong>Syndicate</strong>: When we’re not leading we co-invest alongside other VCs and people that we trust in opportunities that are synergistic to our strategy. We do this as a way to expand our networks and get exposure to key markets, primarily San Francisco and New York. While we’re flexible, our investments in this category tend to be less than $500,000 per opportunity. <br/>
+3)	<strong>Kernel</strong>: these are small investments we make in product stage companies that while being early we have strong conviction about the founders’ transformational superpowers. These investments rarely exceed $100,000 and our expectation is that by investing early we’ll be in the best position to help lead subsequent capital rounds. <br/>
+4)	<strong>Build</strong>: while our focus is on ventures with product market fit we’re still entrepreneurs after all. Hence we pay close attention when we see a market void and the opportunity to partner with super smart people to launch a new company. In this case we not only provide capital but a full platform for these entrepreneurs to thrive. The value proposition to our investors is getting an outsized equity participation as early investors, while we closely oversee the venture building process and de-risk the investment. We are very selective on these type of investments and don't anticipate doing many. <br/>
 
 <strong> Post investment </strong> <br/>
 Everyone at our firm has been a founder so we understand the troubles and tribulations founders goes through. Our job is to help them overcome those challenges and build valuable-enduring companies. Once we make an investment we’re fully vested in their success and we’ll pull in all of our resources to make it happen. We are typically good at helping in these areas:
