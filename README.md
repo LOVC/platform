@@ -65,11 +65,11 @@ Any general partner can present investment opportunities to the committee, and w
 
 We have scheduled weekly meetings to discuss our investment pipeline and portfolio companies. In between meetings we have very fluid communication with each other as frequently as needed. It is not rare for us to meet on any given Sunday very late at night. 
 
-We only expect to invest in about 1% of the companies that we look at. This is not perfect science, but based on our experience this is how we anticipate it will work:
+<i>We only expect to invest in about 1% of the companies that we look at.</i> This is not perfect science, but based on our experience this is how we anticipate it will work:
 
-1)	We will source opportunities through our networks, inbound generated leads, and proactive outreach. The first thing we like to see is a product demo or pitch deck that clearly articulates the innovation and investment opportunity.<br/>
+<pre>1)	We will source opportunities through our networks, inbound generated leads, and proactive outreach. The first thing we like to see is a product demo or pitch deck that clearly articulates the innovation and investment opportunity.<br/>
 2)	Roughly 50% of the pitch decks we review will turn into a first meeting or call with one of our partners.<br/>
-3)	About 10% of the opportunities we look at will convert into a full diligence process, and we expect to make investment offers to 1% of them.<br/>
+3)	About 10% of the opportunities we look at will convert into a full diligence process, and we expect to make investment offers to 1% of them.</pre><br/>
 
 <strong> Our typical investment terms </strong> <br/>
 Every venture is different so we don’t have a set of rules regarding investment terms. We just ask entrepreneurs for fair valuations commensurate with the level of value we’re adding and reasonable downside protection on our investment. In general terms this means a significant enough equity stake for us to be motivated, a 1x liquidation preference, and the right to approve the issuance of any securities that would get preference over our investment.
