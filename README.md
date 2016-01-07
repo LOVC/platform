@@ -18,7 +18,7 @@ We rarely invest in just ideas, and we prefer to see product demos vs. just pitc
 
 We invest in areas we understand and have a strong formed opinion about their future. We’re not dogmatic about any particular market or trend, but instead we invest in technological developments we can effect and yield outstanding returns for our investors. 
 
-Our backgrounds intersect several verticals and markets in which we’ve invested as well as built and sold several companies. By design our capabilities are dramatically augmented by our limited partners, advisors, and co-investors, which we carefully select. We believe to have super powers in building businesses in the North and Latin America in the following sectors:
+Our backgrounds intersect several verticals and markets in which we’ve invested as well as built and sold several startups for over $1Bn. By design our capabilities are dramatically augmented by our limited partners, advisors, and co-investors, which we carefully select. We believe to have super powers in building businesses in the North and Latin America in the following sectors:
 
 ●	Enterprise software <br/>
 ●	Tech-enabled business services <br/>
