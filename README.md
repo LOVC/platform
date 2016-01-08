@@ -56,10 +56,10 @@ We always stick to our fundamental beliefs even if those are contrarian to conve
 
 We tend to be fast to make investment decisions, but we don’t rush to make investments. Sometimes we take extra time to come to a conclusion, and when that happens it is typically because we’re deeply interested. We are always straight forward and never waste anyone's time.
 
-We do deep due diligence and make sure that we’re partnering with great entrepreneurs with a great vision. We believe their time is best spent building their companies, so we try to make it an agile and easy process for them. If we end up not investing we’re very explicit on the reasons for our decision and try to be as helpful as possible.
+We do deep due diligence and make sure that we’re partnering with great entrepreneurs with a great vision. We believe their time is best spent building their companies, so we try to make it a manageable process for them. If we end up not investing we’re very explicit on the reasons for our decision and try to be as helpful as possible.
 
 <strong> How we make investment decisions </strong> <br/>
-Our investment committee makes our investment decisions. We are very practical and are always finding better ways to run and agile investment review and approval process. While our investors wholeheartedly trust our judgment we find that this process provides good balance in our decision-making. 
+Our investment committee makes our investment decisions. We are very practical and are always finding better ways to run an agile investment review and approval process. While our investors wholeheartedly trust our judgment we find that this process provides good balance in our decision-making. 
 
 Any general partner can present investment opportunities to the committee, and we do not require consensus from the other partners for doing so. Nevertheless, in almost all cases the partners seek out feedback from the other partners, advisors, and associates, before presenting investments for approval. In all cases all of our general partners will have met the entrepreneurs before presenting an investment to the investment committee. 
 
