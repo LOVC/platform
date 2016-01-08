@@ -84,7 +84,7 @@ While we’re happy to lead a round if it's the right thing for us to do, we’r
 <strong>4)	Build</strong>: while our focus is on ventures with product market fit we’re still entrepreneurs after all. Hence we pay close attention when we see a market void and the opportunity to partner with super smart people to launch a new company. In this case we not only provide capital but a full platform for these entrepreneurs to thrive. The value proposition to our investors is getting an outsized equity participation as early investors, while we closely oversee the venture building process and de-risk the investment. We are very selective on these type of investments and don't anticipate doing many. <br/>
 
 <strong> Post investment </strong> <br/>
-Everyone at our firm has been a founder so we understand the troubles and tribulations founders goes through. Our job is to help them overcome those challenges and build valuable-enduring companies. Once we make an investment we’re fully vested in their success and we’ll pull in all of our resources to make it happen. We are typically good at helping in these areas:
+Everyone at our firm has been a founder so we understand the troubles and tribulations founders go through. Our job is to help them overcome those challenges and build valuable-enduring companies. Once we make an investment we’re fully vested in their success and we’ll pull in all of our resources to make it happen. We are typically good at helping in these areas:
 
 ●	Raising capital to support growth while balancing equity preservation. <br/>
 ●	Optimizing go-to-market strategies and putting them into action. <br/>
