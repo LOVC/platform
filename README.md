@@ -5,7 +5,7 @@
 Las Olas means "the waves" in Spanish. We're merchants of progress seeking to create waves of change. As futurist venture capitalists we want to transform existing markets and create new ones by backing smart people who are building the future in non-obvious places.
 
 <strong> What we believe in </strong> <br/>
-Everything we do is based on the belief that greatness can come from anywhere. We believe that regardless of background or location when smart people make it their mission to solve a hard problem and change the world they often do.
+Everything we do is based on the belief that greatness can come from anywhere. We believe that regardless of background or location when determined smart people make it their mission to solve a hard problem and change the world they often do.
 
 <strong> What we do </strong> <br/>
 Our mission is to find outstanding entrepreneurs in non-obvious places and maximize their impact by connecting them to networks of capital, talent, and customers in well-established startup ecosystems.
