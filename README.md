@@ -11,14 +11,14 @@ Everything we do is based on the belief that greatness can come from anywhere. W
 Our mission is to find outstanding entrepreneurs in non-obvious places and maximize their impact by connecting them to networks of capital, talent, and customers in well-established startup ecosystems.
 
 <strong> Who we invest in </strong> <br/>
-We invest in smart people who’re building the future. This means technology that can redefine existing industries and create new ones. We call these people superheroes and transformers. They typically have spent years gaining asymmetrical insight in a particular industry and the superpowers for building products that create ascending user networks, which as a result drive transformational value.
+We invest in extraordinary people who have are building the future. This means people building technology that can redefine existing industries and create new ones. We call these people superheroes and transformers. They typically have spent years gaining asymmetrical insight in a particular industry and the superpowers for building products that create ascending user networks, which as a result drive transformational value.
 
 <strong> What we invest in </strong> <br/>
 We rarely invest in just ideas, and we prefer to see product demos vs. just pitch decks. We get really excited when we’re shown actual metrics that validate an original vision. We focus almost all of our efforts looking for companies that have reached early product market fit, which we can help get to the next level. In VC vernacular this means we mainly invest in early revenue companies raising their late Seed and/or Series A round.
 
-We invest in areas we understand and have a strong formed opinion about their future. We’re not dogmatic about any particular market or trend, but instead we invest in technological developments we can effect and yield outstanding returns for our investors. 
+We invest in areas we understand and have a strong formed opinion about their future. We’re not dogmatic about any particular market or trend, but instead we invest in technological developments we can effect and yield outstanding outcomes for our investors and founders. 
 
-Our backgrounds intersect several verticals and markets in which we’ve invested as well as <strong>built and sold several startups for over $1Bn</strong>. By design our capabilities are dramatically augmented by our limited partners, advisors, and co-investors, which we carefully select. We believe to have super powers in building businesses in the North and Latin America in the following sectors:
+Our backgrounds intersect several verticals and markets in which we’ve invested as well as <strong>built and sold several startups for over $1Bn</strong>. By design our capabilities are dramatically augmented by our limited partners, advisors, and co-investors, which we carefully select. We believe to be helpful in building businesses in North and Latin America in the following sectors:
 
 ●	Enterprise software <br/>
 ●	Tech-enabled business services <br/>
@@ -72,7 +72,7 @@ We have scheduled weekly meetings to discuss our investment pipeline and portfol
 <strong>3)</strong>	About 10% of the opportunities we look at will convert into a full diligence process, and we expect to make investment offers to 1% of them.<br/>
 
 <strong> Our typical investment terms </strong> <br/>
-Every venture is different so we don’t have a set of rules regarding investment terms. We just ask entrepreneurs for fair valuations commensurate with the level of value we’re adding and reasonable downside protection on our investment. In general terms this means a significant enough equity stake for us to be motivated, a 1x liquidation preference, and the right to approve the issuance of any securities that would get preference over our investment.
+Every venture is different so we don’t have a set of rules regarding investment terms. We just ask entrepreneurs for fair valuations commensurate with the level of value we’re adding and reasonable downside protection on our investment. In general terms this means a significant enough equity stake for us to be motivated, at least a 1x liquidation preference, and the right to approve the issuance of any securities that would get preference over our investment.
 
 Naturally, our focus is opportunities where can create maximum impact for the entrepreneurs we back and our investors. And given the asymmetrical distribution of returns in venture any of our investments must have the potential to return the total value of our fund. Therefore we find ourselves dedicating most of our energy and resources to helping the portfolio companies in which our ownership level and ability to help are meaningful. 
 
