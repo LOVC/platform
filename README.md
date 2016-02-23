@@ -29,7 +29,7 @@ Our backgrounds intersect several verticals and markets in which we’ve investe
 While we don't see these as the only areas we can invest in they are ones we know really well.
 
 <strong> Where we invest </strong> <br/>
-We’re based in Miami with networks in New York, Boston and the San Francisco bay area. When we lead an investment we like to be close to our companies as that is how we can add the most value to them. If we’re investing alongside people we trust we don't care as much about location as long as we can add value and influence the outcome from afar.
+We’re based in Miami with networks in New York, Boston and the San Francisco bay area. When we lead an investment we like to be close to founders to add the most value. If we’re investing alongside people we trust we don't care as much about location as long as we can add value and influence the outcome from afar.
 
 <strong> Investment themes </strong> <br/>
 Our investment themes are the result of our internal research and data analysis. They reflect our view on the emerging technologies and business architectures that we think will have a fundamental impact on how the world runs. Given the inherent evolving nature of technology, our themes will likely tend to morph, but not always in the same direction conventional wisdom would suggest. We will keep track of how our themes change over time and will mine that data looking for insights. We plan to share any learning we find valuable as well as answer any questions we get. We’re currently very intrigued by entrepreneurs building companies within these themes:
