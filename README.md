@@ -11,7 +11,7 @@ Everything we do is based on the belief that greatness can come from anywhere. W
 Our mission is to find outstanding entrepreneurs in non-obvious places and maximize their impact by connecting them to networks of capital, talent, and customers in well-established startup ecosystems.
 
 <strong> Who we invest in </strong> <br/>
-We invest in extraordinary people who have are building the future. This means people building technology that can redefine existing industries and create new ones. We call these people superheroes and transformers. They typically have spent years gaining asymmetrical insight in a particular industry and the superpowers for building products that create ascending user networks, which as a result drive transformational value.
+We invest in extraordinary people who are building the future. This means people building technology that can redefine existing industries and create new ones. We call these people superheroes and transformers. They typically have spent years gaining asymmetrical insight in a particular industry and the superpowers for building products that create ascending user networks, which as a result drive transformational value.
 
 <strong> What we invest in </strong> <br/>
 We rarely invest in just ideas, and we prefer to see product demos vs. just pitch decks. We get really excited when we’re shown actual metrics that validate an original vision. We focus almost all of our efforts looking for companies that have reached early product market fit, which we can help get to the next level. In VC vernacular this means we mainly invest in early revenue companies raising their late Seed and/or Series A round.
